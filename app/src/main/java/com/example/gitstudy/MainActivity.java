@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d(TAG, "onCreate: 新功能开发");
+        Log.d(TAG, "onCreate: xinfenzhi");
 
     }
 }
